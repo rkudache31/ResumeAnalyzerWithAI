@@ -1,0 +1,84 @@
+Azure devops and kuberenetes engineers   Orion    Job Description:
+
+Strategy & Planning:
+
+•       Looks across teams with a focus on alignment and dependencies
+
+•       Gains a thorough understanding of Operations needs and guides teams to design infrastructure platforms and business processes that meet end user requirements.
+
+•       Translates product and project goals into infrastructure strategy and clearly communicates direction and priorities to teams and business partners
+
+•       Determines value to the business of anticipated Systems Operations efforts
+
+•       Identifies goals, metrics, and appropriate analytics to measure the performance of Systems Operations teams; continually makes recommendations and refinements on approaches based on learnings
+
+•       Reviews recommended solutions and work of Systems Operations to ensure alignment with company, stakeholder, and end user priorities
+
+ 
+
+Delivery & Execution:
+
+•       Leads configuration, debugging, and support for infrastructure and deployments
+
+•       Leads the stand up of necessary system software, hardware, and equipment (physical or virtual) to meet changing infrastructure needs
+
+•       Expertise in MS Azure and DevOps functionality to provide Operations support to CI/CD and automation across DFS technology stack.
+
+•       Creates and optimizes specifications for complex technology solutions
+
+•       Provides regular status to leadership regarding progress of Systems Operations efforts
+
+ 
+
+Qualification:
+
+ 
+
+¿        Bachelor's degree in computer science or related degree
+
+¿       Minimum of 5+ years of infrastructure + cloud experience in a solution architecture role using service and hosting solutions, such as private/public cloud IaaS, PaaS and SaaS platforms
+
+¿       Microsoft Azure certification desired
+
+¿       Kubernetes CKA or CKAD certification good to have.
+
+¿       4+ years of experience in customer-facing support, software services, and/or system administration for a large end-user community
+
+¿       Team player and self-starter with minimal supervision.
+
+¿       Ability to effectively communicate with others, both verbally and in writing
+
+ 
+
+Technical Skills:
+
+ 
+
+•    Incident Management, Change Management around Cloud Infrastructure and Applications.
+
+•       Dev/Ops practices, procedures, and execution for SaaS Solutions.
+
+•       Application Deployment Planning, Execution and Validation skills.
+
+•       Deep technical understanding of application and cloud-native deployment and design, including middleware options, protocols, API gateways, and platform infrastructures
+
+•       Experience with networking and networking technologies
+
+•       Experience implementing and operating mission-critical technology components with HA, DR, and Business Continuity capabilities
+
+•       Experience with multi-tier system and service support and troubleshooting for large enterprises
+
+•       Good understanding of Software as a Service, Infrastructure as Code (IaC), and related concepts on the public cloud.
+
+•       Experience with configuration management and automation tools such as Azure DevOps, Terraform
+
+•       Knowledge of cloud security controls including tenant isolation, encryption at rest, encryption in transit, key management, vulnerability assessments, application firewalls
+
+ 
+
+No. Of Positions – 2
+Experience – Min 5-8 Years
+Rate – 900 to 1200/- per hr
+Work Location - One of Our EIC office locations (Hybrid)
+Interview levels: 3 rounds (2 internal, 3rd with customer)
+Duration of Contract: 3 months (Can be extended as per the requirement)
